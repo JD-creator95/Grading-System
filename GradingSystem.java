@@ -15,7 +15,7 @@ public class GradingSystem {
 
             // Break the loop if user enters -1
             if (marks == -1) {
-                System.out.println("Early exit requested. Exiting program...");
+                System.out.println("Early exit requested. Exiting program.");
                 break;
             }
 
